@@ -42,7 +42,7 @@ jupyter notebook Netflix_EDA.ipynb
 Feel free to submit pull requests for improvements or additional analysis!
 
 
-##License
+## License
 This project is licensed under the MIT License.
 
 ```vbnet
